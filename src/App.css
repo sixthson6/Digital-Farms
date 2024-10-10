@@ -1,4 +1,13 @@
 body {
   font-family: "Playfair Display", serif;
-  padding: 20px 60px;
+  padding: 0px 100px;
+}
+
+a {
+  text-decoration: none;
+  color: #044b04;
+}
+
+* {
+  box-sizing: border-box;
 }

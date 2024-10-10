@@ -1,0 +1,18 @@
+.sign-in {
+    width: 380px;
+    display: flex;
+    flex-direction: column;
+
+    .title {
+        margin: 10px 0;
+    }
+    h2 {
+        color: #044b04; 
+    }
+
+    .buttons {
+        display: flex;
+        gap: 15px;
+    }
+
+}
